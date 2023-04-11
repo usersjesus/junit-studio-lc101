@@ -1,5 +1,5 @@
 package main;
-
+import java.io.*;
 
 public class BalancedBrackets {
     /**
@@ -32,4 +32,5 @@ public class BalancedBrackets {
         }
         return brackets == 0;
     }
+
 }
